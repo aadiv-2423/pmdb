@@ -10,9 +10,8 @@ try:
       
       id INTEGER PRIMARY KEY,
       title text NOT NULL,
-      year INTEGER,
-      language text,
-      genre text,
+      release_date INTEGER,
+      original_language text,
       format text)''')
         conn.commit()
 
