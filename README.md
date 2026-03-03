@@ -1,5 +1,6 @@
 This is a project that is meant to catalogue a personal DVD/Blu Ray collection, automating portions of the data entry to make it easier to populate a .db file.
 I have the setup database file, the search function (with TMDB API link) and the main file which will be used to speed-up the data entry portion
+
 TECH USED: Python, SQLite, TMDB API
 
 A potential end-point for this program after it becomes an online catalogue for intended user to use as a reference point, is to convert it into a full-blown personal streaming service, but that's a ways away.
