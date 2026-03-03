@@ -4,6 +4,7 @@ TECH USED: Python, SQLite, TMDB API
 
 A potential end-point for this program after it becomes an online catalogue for intended user to use as a reference point, is to convert it into a full-blown personal streaming service, but that's a ways away.
 
-POTENTIAL FEATURES TO ADD: - increasing [:2] to maybe [:5] or [:10]. Some obscure or older films don't show up in the first two results
+POTENTIAL FEATURES TO ADD:
+- Increasing [:2] to maybe [:5] or [:10]. Some obscure or older films don't show up in the first two results
 - An option to say that none of the options presented are correct
 - An option to go back one step in the program due to user error
