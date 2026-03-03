@@ -1,4 +1,4 @@
-This is a project that is meant to catalogue a personal DVD/Blu Ray collection, automating portions of the data entry to make it easier to create a .db file.
+This is a project that is meant to catalogue a personal DVD/Blu Ray collection, automating portions of the data entry to make it easier to populate a .db file.
 I have the setup database file, the search function (with TMDB API link) and the main file which will be used to speed-up the data entry portion
 TECH USED: Python, SQLite, TMDB API
 
